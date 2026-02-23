@@ -61,6 +61,26 @@ NEWS_STORIES = [
         "text": "The Fight for Our Funds: A Movement for Consumer Protection in the age of no accountability.",
         "url": "https://www.fightforourfunds.org/",
         "image_path": "./media/street-banks.png"
+    },
+    {
+        "text": "The Synapse Collapse Exposes Why the World Needs Stronger Fintech Regulation Volume 21, Issue 1",
+        "url": "https://www.yalejournal.org/publications/the-synapse-collapse",
+        "image_path": "./media/street-banks.png"
+    },
+    {
+        "text": "Nearly $109 million in deposits held for fintech Yotta’s customers vanished in Synapse collapse, bank says",
+        "url": "https://www.cnbc.com/2024/06/21/synapse-collapse-nearly-109m-in-yotta-customer-deposits-vanish.html",
+        "image_path": "./media/piggy-1.png"
+    },
+    {
+        "text": "Fintech Fight Leads to Hundreds of Thousands of Frozen Accounts",
+        "url": "https://prospect.org/2024/05/23/2024-05-23-fintech-fight-frozen-bank-accounts-synapse/",
+        "image_path": "./media/piggy-2.png"
+    },
+    {
+        "text": "Treasury Foresaw the Synapse Collapse Two Years Ago",
+        "url": "https://prospect.org/2024/06/19/2024-06-19-treasury-foresaw-synapse-collapse/",
+        "image_path": "./media/bank-diag.png"
     }
 ]
 
